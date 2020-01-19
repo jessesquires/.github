@@ -10,6 +10,8 @@
 - [Feature Requests](#love_letter-feature-requests)
 - [Triaging Issues](#mag-triaging-issues)
 - [Submitting Pull Requests](#repeat-submitting-pull-requests)
+- [Certificate of Origin](#medal_sports-certificate-of-origin)
+- [Credits](#pray-credits)
 
 > **This guide serves to set clear expectations for everyone involved with the project so that we can improve it together while also creating a welcoming space for everyone to participate. Following these guidelines will help ensure a positive experience for contributors and maintainers.**
 
@@ -89,7 +91,7 @@ For most contributions, after your pull request is accepted and merged, you will
 
 - Use spaces, not tabs.
 
-## Certificate of Origin
+## :medal_sports: Certificate of Origin
 
 *Developer's Certificate of Origin 1.1*
 
@@ -106,13 +108,17 @@ If you are reading this, bravo dear user and (hopefully) contributor! You are aw
 
 To confirm that you have read this guide and are following it as best as possible, **include this emoji at the top** of your issue or pull request: :black_heart: `:black_heart:`
 
-## Credits
+## :pray: Credits
 
-Some of the ideas and prose for the statements in this document were based on or inspired by work from the following communities:
+Written by [@jessesquires](https://github.com/jessesquires). 
+
+**Please feel free to adopt this guide in your own projects. Fork it wholesale or remix it for your needs.**
+
+*Many of the ideas and prose for the statements in this document were based on or inspired by work from the following communities:*
 
 - [Alamofire](https://github.com/Alamofire/Alamofire/blob/master/CONTRIBUTING.md)
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods/blob/master/CONTRIBUTING.md)
 - [Docker](https://github.com/moby/moby/blob/master/CONTRIBUTING.md)
 - [Linux](https://elinux.org/Developer_Certificate_Of_Origin)
 
-We commend them for their efforts to facilitate collaboration in their projects.
+*We commend them for their efforts to facilitate collaboration in their projects.*
