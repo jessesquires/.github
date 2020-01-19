@@ -100,6 +100,12 @@ By making a contribution to this project, I certify that:
 > 1. The contribution was provided directly to me by some other person who certified (1), (2) or (3) and I have not modified it.
 > 1. I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 
+## [No Brown M&M's](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders)
+
+If you are reading this, bravo dear user and (hopefully) contributor! You are awesome. :100: 
+
+To confirm that you have read this guide and are following it as best as possible, **include this emoji at the top** of your issue or pull request: :black_heart: `:black_heart:`
+
 ## Credits
 
 Some of the ideas and prose for the statements in this document were based on or inspired by work from the following communities:
