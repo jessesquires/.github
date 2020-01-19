@@ -39,3 +39,7 @@ Feature requests are welcome! While we will consider all requests, we cannot gua
 - **Fully complete the provided issue template.** The feature request template asks for all necessary information for us to begin a productive conversation. 
 
 - Be precise about the proposed outcome of the feature and how it relates to existing features. Include implementation details if possible.
+
+## :mag: Triaging Issues
+
+You can triage issues which may include reproducing bug reports or asking for additional information, such as version numbers or reproduction instructions. Any help you can provide to quickly resolve an issue is very much appreciated!
