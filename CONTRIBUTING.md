@@ -4,10 +4,11 @@
 
 ### Contents
 
-- [Code of Conduct](#code-of-conduct)
-- [Asking Questions](#asking-questions)
-- [Opening an Issue](#opening-an-issue)
-- [Triaging Issues](#triaging-issues)
+- [Code of Conduct](#book-code-of-conduct)
+- [Asking Questions](#bulb-asking-questions)
+- [Opening an Issue](#inbox_tray-opening-an-issue)
+- [Feature Requests](#love_letter-feature-requests)
+- [Triaging Issues](#mag-triaging-issues)
 
 This guide serves to set clear expectations for everyone involved with the project so that we can improve it together while also creating a welcoming space for everyone to participate. Following these guidelines will help ensure a positive experience for contributors and maintainers.
 
@@ -37,7 +38,7 @@ In short, since you are most likely a developer, **provide a ticket that you wou
 
 - **Fully complete the provided issue template.** The bug report template requests all the information we need to quickly and efficiently address your issue. Be clear, concise, and descriptive. Provide as much information as you can, including steps to reproduce, stack traces, compiler errors, library versions, OS versions, and screenshots (if applicable).
 
-### :love_letter: Feature Requests
+## :love_letter: Feature Requests
 
 Feature requests are welcome! While we will consider all requests, we cannot guarantee your request will be accepted. We want to avoid [feature creep](https://en.wikipedia.org/wiki/Feature_creep). Your idea may be great, but also out-of-scope for the project. If accepted, we cannot make any commitments regarding the timeline for implementation and release. However, you are welcome to submit a pull request to help!
 
