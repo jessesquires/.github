@@ -2,6 +2,8 @@
 
 ## Reporting a Vulnerability
 
+If you discover a security issue, please bring it to our attention right away!
+ 
 Please **DO NOT** file a public issue to report a security vulberability, instead send your report privately to **oss@jessesquires.com**. This will help ensure that any vulnerabilities that are found can be [disclosed responsibly](https://en.wikipedia.org/wiki/Responsible_disclosure) to any affected parties.
 
 ## Supported Versions
