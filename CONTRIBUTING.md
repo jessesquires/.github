@@ -2,6 +2,13 @@
 
 *Pull requests, bug reports, and all other forms of contribution are welcomed and highly encouraged!*
 
+### Contents
+
+- [Code of Conduct](#code-of-conduct)
+- [Asking Questions](#asking-questions)
+- [Opening an Issue](#opening-an-issue)
+- [Triaging Issues](#triaging-issues)
+
 This guide serves to set clear expectations for everyone involved with the project so that we can improve it together while also creating a welcoming space for everyone to participate. Following these guidelines will help ensure a positive experience for contributors and maintainers.
 
 ## :book: Code of Conduct
