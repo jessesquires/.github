@@ -15,7 +15,7 @@ assignees: ''
 ## Is your feature request related to a problem? 
 *Clearly and concisely describe the problem.*
 
-## Proposed solution and implementation notes
+## Proposed solution
 *Clearly and concisely describe the solution you'd like to see. Include implementation details, if possible.*
 
 ## Alternatives considered
