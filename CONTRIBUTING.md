@@ -84,7 +84,7 @@ For most contributions, after your pull request is accepted and merged, you will
 
 - **Add documentation.** Document your changes with code doc comments or in existing guides.
 
-- **Update the CHANGELOG** for all enhancements and bug fixes. Include the corresponding issue number if one exists, and your GitHub username.
+- **Update the CHANGELOG** for all enhancements and bug fixes. Include the corresponding issue number if one exists, and your GitHub username. (example: "- Fixed crash in profile view. #123 @jessesquires")
 
 - **Use the repo's default branch.** Branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to the repo's default branch (usually `dev` or `develop`).
 
@@ -144,7 +144,7 @@ See also: #456, #789
 
 ## :white_check_mark: Code Review
 
-- **Review the code, not the author.** Look for and suggest improvements without disparging or insulting the author. Provide actionable feedback and explain your reasoning.
+- **Review the code, not the author.** Look for and suggest improvements without disparaging or insulting the author. Provide actionable feedback and explain your reasoning.
 
 - **You are not your code.** When your code is critiqued, questioned, or constructively criticized, remember that you are not your code. Do not take code review personally.
 
@@ -173,7 +173,7 @@ By making a contribution to this project, I certify that:
 
 ## [No Brown M&M's](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders)
 
-If you are reading this, bravo dear user and (hopefully) contributor! You are awesome. :100: 
+If you are reading this, bravo dear user and (hopefully) contributor for making it this far! You are awesome. :100: 
 
 To confirm that you have read this guide and are following it as best as possible, **include this emoji at the top** of your issue or pull request: :black_heart: `:black_heart:`
 
