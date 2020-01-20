@@ -12,6 +12,7 @@
 - [Submitting Pull Requests](#repeat-submitting-pull-requests)
 - [Writing Commit Messages](#memo-writing-commit-messages)
 - [Code Review](#white_check_mark-code-review)
+- [Coding Style](#nail_care-coding-style)
 - [Certificate of Origin](#medal_sports-certificate-of-origin)
 - [Credits](#pray-credits)
 
@@ -150,6 +151,14 @@ See also: #456, #789
 - **Always do your best.** No one writes bugs on purpose. Do your best, and learn from your mistakes.
 
 - Kindly note any violations to the guidelines specified in this document. 
+
+## :nail_care: Coding Style
+
+Consistency is the most important. Following the existing style, formatting, and naming conventions of the file you are modifying and of the overall project. Failure to do so will result in a prolonged review process that has to focus on updating the superficial aspects of your code, rather than improving its functionality and performance.
+
+For example, if all private properties are prefixed with an underscore `_`, then new ones you add should be prefixed in the same way. Or, if methods are named using camelcase, like `thisIsMyNewMethod`, then do not diverge from that by writing `this_is_my_new_method`. You get the idea. If in doubt, please ask or search the codebase for something similar.
+
+When possible, style and format will be enforced with a linter.
 
 ## :medal_sports: Certificate of Origin
 
