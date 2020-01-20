@@ -16,5 +16,5 @@ Interested in making contributions to this project? Please review the guides bel
 - [Support and Help](https://github.com/jessesquires/.github/blob/master/SUPPORT.md)
 - [Security Policy](https://github.com/jessesquires/.github/blob/master/SECURITY.md)
 
-Also, consider [sponsoring this project](https://www.jessesquires.com/sponsor/)! :v:
+Also, consider [sponsoring this project](https://www.jessesquires.com/sponsor/) or [buying my apps](https://www.hexedbits.com)!! :v:
 ```
