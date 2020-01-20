@@ -19,7 +19,7 @@ assignees: ''
 *Clearly and concisely describe the solution you'd like to see. Include implementation details, if possible.*
 
 ## Alternatives considered
-*Clearly and concisely describe any alternative solutions or features you've considered.
+*Clearly and concisely describe any alternative solutions or features you've considered.*
 
 ## Additional context
 *Add any other context or screenshots about the feature request here.*
