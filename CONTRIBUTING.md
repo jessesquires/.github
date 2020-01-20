@@ -42,7 +42,9 @@ In short, since you are most likely a developer, **provide a ticket that you wou
 
 - **Review the documentation and [Support Guide](https://github.com/jessesquires/.github/blob/master/SUPPORT.md)** before opening a new issue.
 
-- **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have. You may simply note "I have this problem too", which helps prioritize the most common problems and requests. **Prefer using [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)** if you simply want to "+1" an existing issue.
+- **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have. You may simply note "I have this problem too", which helps prioritize the most common problems and requests. 
+
+- **Prefer using [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)**, not comments, if you simply want to "+1" an existing issue.
 
 - **Fully complete the provided issue template.** The bug report template requests all the information we need to quickly and efficiently address your issue. Be clear, concise, and descriptive. Provide as much information as you can, including steps to reproduce, stack traces, compiler errors, library versions, OS versions, and screenshots (if applicable).
 
@@ -98,7 +100,7 @@ For most contributions, after your pull request is accepted and merged, you will
 
 ## :memo: Writing Commit Messages
 
-Please [write a great commit message](https://chris.beams.io/posts/git-commit/#seven-rules).
+Please [write a great commit message](https://chris.beams.io/posts/git-commit/).
 
 1. Separate subject from body with a blank line
 1. Limit the subject line to 50 characters
