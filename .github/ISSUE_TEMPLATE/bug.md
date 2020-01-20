@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a bug to help us improve
+about: Report a problem you encountered
 title: ''
 labels: bug
 assignees: ''
@@ -24,13 +24,13 @@ assignees: ''
  - Other related GitHub issues?:
 
 ## Describe the bug
-*Provide a clear and concise description of what the bug is.*
+*Clearly and concisely describe the bug.*
 
 ## Steps to reproduce
 *Provide numbered steps to follow to reproduce the bug.*
 
 ## Expected behavior
-*Provide a clear and concise description of what you expected to happen.*
+*Clearly and concisely describe what you expected to happen.*
 
 ## Screenshots
 *If applicable, add screenshots, gifs, or videos to help explain your problem.*
