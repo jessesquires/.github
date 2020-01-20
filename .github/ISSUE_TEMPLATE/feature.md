@@ -7,14 +7,19 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+*Have you read the [Contributing Guidelines](https://github.com/jessesquires/.github/blob/master/CONTRIBUTING.md)?*
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Describe the feature
+*Clearly and concisely describe what you would like to add.*
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Is your feature request related to a problem? 
+*Clearly and concisely describe the problem.*
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Proposed solution and implementation notes
+*Clearly and concisely describe the solution you'd like to see. Include implementation details, if possible.*
+
+## Alternatives considered
+*Clearly and concisely describe any alternative solutions or features you've considered.
+
+## Additional context
+*Add any other context or screenshots about the feature request here.*
