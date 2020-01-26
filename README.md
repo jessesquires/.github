@@ -4,7 +4,7 @@
 
 ## README template
 
-Add this to READMEs.
+Boilerplate to add to `README.md` files.
 
 ```markdown
 ## Contributing
@@ -17,4 +17,14 @@ Interested in making contributions to this project? Please review the guides bel
 - [Security Policy](https://github.com/jessesquires/.github/blob/master/SECURITY.md)
 
 Also, consider [sponsoring this project](https://www.jessesquires.com/sponsor/) or [buying my apps](https://www.hexedbits.com)! ✌️
+
+## Credits
+
+Created and maintained by [**@jesse_squires**](https://twitter.com/jesse_squires).
+
+## License
+
+Released under the MIT License. See `LICENSE` for details.
+
+>**Copyright &copy; YEAR-present Jesse Squires.**
 ```
