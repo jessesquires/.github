@@ -8,8 +8,9 @@ These must be copied to new repositories, and updated with project-specific deta
 
 ### Scripts
 
-- `lint.sh`, swift lint script
-- `build_docs.sh`, jazzy docs script
+- `lint.sh`: run [SwiftLint](https://github.com/realm/SwiftLint). Add build phase script in Xcode project: `"${SRCROOT}/scripts/lint.sh"`
+
+- `build_docs.sh`: run [Jazzy](https://github.com/realm/jazzy) doc generation.
 
 ### Templates
 
@@ -40,5 +41,5 @@ Created and maintained by [**@jesse_squires**](https://twitter.com/jesse_squires
 
 Released under the MIT License. See `LICENSE` for details.
 
->**Copyright &copy; YEAR-present Jesse Squires.**
+> **Copyright &copy; YEAR-present Jesse Squires.**
 ```
