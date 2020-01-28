@@ -15,7 +15,9 @@ These must be copied to new repositories, and updated with project-specific deta
 ### Templates
 
 - `IDETemplateMacros.plist` to [customize Xcode header comments](https://oleb.net/blog/2017/07/xcode-9-text-macros/). 
-Must be placed in  `<ProjectName>.xcodeproj/xcshareddata/IDETemplateMacros.plist` or `<WorkspaceName>.xcworkspace/xcshareddata/IDETemplateMacros.plist`.
+Must be placed in either:
+   - `<PROJECT_NAME>.xcodeproj/xcshareddata/IDETemplateMacros.plist`
+   - `<WORKSPACE_NAME>.xcworkspace/xcshareddata/IDETemplateMacros.plist`
 
 ## README template
 
