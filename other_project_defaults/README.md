@@ -1,4 +1,4 @@
-# Default project files
+# Default Project Files
 
 This directory contains miscellaneous default project files, like build scripts, etc.
 
