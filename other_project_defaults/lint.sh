@@ -6,10 +6,10 @@
 #  Copyright © 2020-present Jesse Squires
 #
 #  SwiftLint
-#  https://github.com/realm/swiftlint
+#  https://github.com/realm/SwiftLint/releases/latest
 #  ------------------------------
 
-VERSION="0.35.0"
+VERSION="0.39.0"
 FOUND=$(swiftlint version)
 
 if which swiftlint >/dev/null; then
