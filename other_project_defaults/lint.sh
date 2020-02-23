@@ -4,12 +4,13 @@
 #  https://www.jessesquires.com
 #
 #  Copyright © 2020-present Jesse Squires
+#  https://github.com/jessesquires/.github
 #
 #  SwiftLint
 #  https://github.com/realm/SwiftLint/releases/latest
 #  ------------------------------
 
-VERSION="0.39.0"
+VERSION="0.39.1"
 FOUND=$(swiftlint version)
 
 if which swiftlint >/dev/null; then
