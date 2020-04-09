@@ -4,4 +4,4 @@
 
 ## Template repositories
 
-- [template-iOS-macOS](https://github.com/jessesquires/template-iOS-macOS) for iOS and macOS projects
+- [`template-iOS-macOS`](https://github.com/jessesquires/template-iOS-macOS) for iOS and macOS projects
