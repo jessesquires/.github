@@ -5,3 +5,4 @@
 ## Template repositories
 
 - [`template-iOS-macOS`](https://github.com/jessesquires/template-iOS-macOS) for iOS and macOS projects
+- [`template-jekyll-site`](https://github.com/jessesquires/template-jekyll-site) for Jekyll website projects
