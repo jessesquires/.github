@@ -28,4 +28,4 @@ These are not appropriate avenues for seeking help or support with an open-sourc
 
 ## Customer Support
 
-I do not provide any sort of "customer support" for open-source projects. However, I am available for hire. For details on contracting and consulting, visit [jessesquires.com](https://www.jessesquires.com).
+I do not provide any sort of "customer support" for open-source projects. However, I am available for hire. For details on contracting and consulting, visit [jessesquires.com/hire-me](https://www.jessesquires.com/hire-me/).
