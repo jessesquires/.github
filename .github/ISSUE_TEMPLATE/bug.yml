@@ -56,10 +56,10 @@ body:
     attributes:
       label: Steps to reproduce
       placeholder: |
-        1.
-        2.
-        3.
-        ...
+        1. 
+        2. 
+        3. 
+        ... 
     validations:
       required: true
   - type: textarea
