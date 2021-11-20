@@ -78,21 +78,21 @@ body:
     attributes:
       label: Attachments
       description: Please include code snippets, stack traces, or compiler errors, if applicable.
-      placeholder: Code snippets / Stack traces / Compiler errors
+      placeholder: Code snippets, stack traces, compiler errors
     validations:
       required: false
   - type: textarea
     id: screenshots
     attributes:
       label: Screenshots or Videos
-      description: If applicable, add screenshots, gifs, or videos to help explain your problem.
-      placeholder: screenshots or videos
+      description: Add screenshots, gifs, or videos to help explain your problem, if applicable.
+      placeholder: Screenshots, gifs, videos
     validations:
       required: false
   - type: textarea
     id: additional
     attributes:
-      label: Additional context
+      label: Additional Information
       description: Add any other useful information about the problem here.
       placeholder: Is there any additional helpful information you can share?
     validations:
