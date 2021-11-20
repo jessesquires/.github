@@ -77,16 +77,16 @@ body:
     id: attachments
     attributes:
       label: Attachments
-      description: Please include code snippets, stack traces, or compiler errors, if applicable.
-      placeholder: Paste code snippets, stack traces, compiler errors here
+      description: Please include code snippets, stack traces, or compiler errors.
+      placeholder: Paste code snippets, stack traces, and compiler errors here
     validations:
       required: false
   - type: textarea
     id: screenshots
     attributes:
       label: Screenshots or Videos
-      description: Add screenshots, gifs, or videos to help explain your problem, if applicable.
-      placeholder: Upload screenshots, gifs, videos here
+      description: Add screenshots, gifs, or videos to help explain your problem.
+      placeholder: Upload screenshots, gifs, and videos here
     validations:
       required: false
   - type: textarea
