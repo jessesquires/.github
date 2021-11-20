@@ -42,7 +42,7 @@ body:
       description: Are there any similar existing issues?
       placeholder: "#42"
     validations:
-      required: true
+      required: false
   - type: textarea
     id: what-happened
     attributes:
