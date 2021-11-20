@@ -1,0 +1,96 @@
+name: Bug report
+description: Report a problem you encountered
+title: "[Bug]: "
+labels: ["bug"]
+assignees: ""
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to complete this bug report!
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Guidelines
+      description: By submitting this issue, you agree to follow our [Contributing Guidelines](https://github.com/jessesquires/.github/blob/main/CONTRIBUTING.md).
+      options:
+        - label: I agree to follow this project's Contributing Guidelines.
+          required: true
+  - type: input
+    id: project
+    attributes:
+      label: Project Version
+      placeholder: "1.0, 1.2.3, 2.5.1"
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Platform and OS Version
+      placeholder: "iOS 12.1, tvOS 13.0, macOS 10.15.1, Safari 12"
+    validations:
+      required: true
+  - type: input
+    id: devices
+    attributes:
+      label: Affected Devices
+      placeholder: "iPhone X, iPhone SE, iPad Air, MacBook Pro"
+    validations:
+      required: true
+  - type: input
+    id: existing-issues
+    attributes:
+      label: Existing Issues
+      description: Are there any similar existing issues?
+      placeholder: "#42"
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Clearly and concisely describe the bug.
+      placeholder: Tell us what happened.
+    validations:
+      required: true
+  - type: textarea
+    id: repro-steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+        ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      placeholder: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Attachments
+      description: Please include code snippets, stack traces, or compiler errors, if applicable.
+      placeholder: Code snippets / Stack traces / Compiler errors
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or Videos
+      description: If applicable, add screenshots, gifs, or videos to help explain your problem.
+      placeholder: screenshots or videos
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add any other useful information about the problem here.
+      placeholder: Is there any additional helpful information you can share?
+    validations:
+      required: false
